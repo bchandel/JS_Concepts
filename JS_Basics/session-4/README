@@ -1,0 +1,26 @@
+1. Quick Revision
+2. Callbacks
+3. Lexical scope
+4. Closure
+5. Promisies
+
+
+* JS Fetaures 
+
+ - Exicution context 
+ - Call stacks 
+ - Memory 
+
+ Broswers Fetaures
+
+ - Window
+ - DOM 
+ - Web APIs 
+ - Storages 
+ - Network calls
+
+
+ Node Js
+  - DB 
+  - FS (file system)
+  - V8 + C++ 
